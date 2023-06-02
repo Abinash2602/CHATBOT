@@ -1,0 +1,5 @@
+<html>
+<body>
+<div><iframe class="m-w-100" src="https://www.smatbot.com/kya_backend/share?code=CBUM_17121" style="border:0;" width="400" height="500"></iframe></div>
+</body>
+</html>
